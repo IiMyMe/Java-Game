@@ -6,5 +6,6 @@ public class Va {
 	public int MP;
 	public int Mon[]= {0,1,2,3,4,5,6,7,8,9};
 	public int MExp[]= {5,15,30,50,75,105,140,180,225,275};
-	public int Exp=LV*5;
+	public int GExp=LV*5;
+	public int Exp=0;
 }
